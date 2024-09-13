@@ -1,0 +1,5 @@
+/bin/sh: 1: /home/nazar/dev/ROS2/myenv/bin/python3: not found
+gmake[2]: *** [CMakeFiles/ament_cmake_python_build_turtlesim_egg.dir/build.make:70: CMakeFiles/ament_cmake_python_build_turtlesim_egg] Error 127
+gmake[1]: *** [CMakeFiles/Makefile2:455: CMakeFiles/ament_cmake_python_build_turtlesim_egg.dir/all] Error 2
+gmake[1]: *** Waiting for unfinished jobs....
+gmake: *** [Makefile:146: all] Error 2

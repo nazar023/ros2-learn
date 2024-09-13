@@ -1,0 +1,16 @@
+[  1%] Built target turtlesim__cpp
+[ 11%] Built target turtlesim__rosidl_generator_c
+[ 11%] Built target ament_cmake_python_copy_turtlesim
+[ 21%] Built target turtlesim__rosidl_typesupport_cpp
+[ 31%] Built target turtlesim__rosidl_typesupport_fastrtps_cpp
+/bin/sh: 1: /home/nazar/dev/ROS2/myenv/bin/python3: not found
+gmake[2]: *** [CMakeFiles/ament_cmake_python_build_turtlesim_egg.dir/build.make:70: CMakeFiles/ament_cmake_python_build_turtlesim_egg] Error 127
+[ 41%] Built target turtlesim__rosidl_typesupport_c
+gmake[1]: *** [CMakeFiles/Makefile2:455: CMakeFiles/ament_cmake_python_build_turtlesim_egg.dir/all] Error 2
+gmake[1]: *** Waiting for unfinished jobs....
+[ 51%] Built target turtlesim__rosidl_typesupport_introspection_c
+[ 61%] Built target turtlesim__rosidl_typesupport_introspection_cpp
+[ 71%] Built target turtlesim__rosidl_typesupport_fastrtps_c
+[ 73%] Built target turtle_teleop_key
+[ 79%] Built target turtlesim_node
+gmake: *** [Makefile:146: all] Error 2

@@ -1,0 +1,17 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from cool_service/srv/Cool.srv
+// generated code does not contain a copyright notice
+
+
+module cool_service {
+  module srv {
+    struct Cool_Request {
+      int64 a;
+
+      int64 b;
+    };
+    struct Cool_Response {
+      int64 sum;
+    };
+  };
+};

@@ -1,0 +1,18 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from toxic_relationship/action/ToxicRelationship.action
+// generated code does not contain a copyright notice
+
+
+module toxic_relationship {
+  module action {
+    struct ToxicRelationship_Goal {
+      int32 toxicity_rate;
+    };
+    struct ToxicRelationship_Result {
+      boolean living_status;
+    };
+    struct ToxicRelationship_Feedback {
+      string feedback;
+    };
+  };
+};

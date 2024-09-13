@@ -1,0 +1,404 @@
+[0.183s] Invoking command in '/home/nazar/dev/ROS2/build/turtlesim': CMAKE_PREFIX_PATH=/opt/ros/humble PS1=(myenv) ${$((_p9k_on_expand()))+}%{${_p9k__raw_msg-}${_p9k__raw_msg::=}%}${(e)_p9k_t[7]}${_p9k__1-${${:-${_p9k__d::=0}${_p9k__rprompt::=${_p9k__1r-${${:-${_p9k__bg::=NONE}${_p9k__i::=0}${_p9k__sss::=${(Q)${:-"%\\{%\\}"}}}}+}${${:-${P9K_CONTENT::=}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=8}}${_p9k__n:=${${(M)${:-x$_p9k__bg}:#x(|0)}:+10}}${_p9k__n:=11}${_p9k__c::="${P9K_CONTENT}"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__1r:+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}0}}}+}${${_p9k__e:#00}:+${_p9k_t[$_p9k__n]/<_p9k__w>/$_p9k__w}${_p9k__c}%b%k%f${${:-${_p9k__w::=%b%k%f}${_p9k__sss::=%b%k%f}${_p9k__i::=1}${_p9k__bg::=}}+}}${${:-"${${(%):-%j}:#0}"}:+${${:-${P9K_CONTENT::=""}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=12}}${_p9k__n:=${${(M)${:-x$_p9k__bg}:#x(|0)}:+14}}${_p9k__n:=15}${_p9k__v::=}${_p9k__c::="${P9K_CONTENT}"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__1rbackground_jobs+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}1}}}+}${${_p9k__e:#00}:+${_p9k_t[$_p9k__n]/<_p9k__w>/$_p9k__w}${_p9k__v}${${(M)_p9k__e:#11}:+ }${_p9k__c}%b%k%F{070\}${${:-${_p9k__w::=%b%k%F{070\}}${_p9k__sss::=%b%k%F{070\}}${_p9k__i::=3}${_p9k__bg::=}}+}}}${${:-"${${(%):-%#}:#\#}"}:+${${:-${P9K_CONTENT::=%n@%m}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=16}}${_p9k__n:=${${(M)${:-x$_p9k__bg}:#x(|0)}:+18}}${_p9k__n:=19}${_p9k__c::=}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__1rcontext+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}0}}}+}${${_p9k__e:#00}:+${_p9k_t[$_p9k__n]/<_p9k__w>/$_p9k__w}${_p9k__c}%b%k%F{180\}${${:-${_p9k__w::=%b%k%F{180\}}${_p9k__sss::=%b%k%F{180\}}${_p9k__i::=31}${_p9k__bg::=}}+}}}${${:-"${${(%):-%#}:#\%}"}:+${${:-${P9K_CONTENT::=%B%n@%m}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=20}}${_p9k__n:=${${(M)${:-x$_p9k__bg}:#x(|0)}:+22}}${_p9k__n:=23}${_p9k__c::="${P9K_CONTENT}"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__1rcontext+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}0}}}+}${${_p9k__e:#00}:+${_p9k_t[$_p9k__n]/<_p9k__w>/$_p9k__w}${_p9k__c}%b%k%F{178\}${${:-${_p9k__w::=%b%k%F{178\}}${_p9k__sss::=%b%k%F{178\}}${_p9k__i::=31}${_p9k__bg::=}}+}}}${${:-${P9K_CONTENT::=19:31:23}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=24}}${_p9k__n:=${${(M)${:-x$_p9k__bg}:#x(|0)}:+26}}${_p9k__n:=27}${_p9k__v::=}${_p9k__c::="${P9K_CONTENT}"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__1rtime+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}1}}}+}${${_p9k__e:#00}:+${_p9k_t[$_p9k__n]/<_p9k__w>/$_p9k__w}${_p9k__v}${${(M)_p9k__e:#11}:+ }${_p9k__c}%b%k%F{066\}${${:-${_p9k__w::=%b%k%F{066\}}${_p9k__sss::=%b%k%F{066\}}${_p9k__i::=43}${_p9k__bg::=}}+}}$_p9k__sss%b%k%f}}${_p9k__lprompt::=${_p9k__1l-${${:-${_p9k__bg::=NONE}${_p9k__i::=0}${_p9k__sss::=%f }}+}${${:-${P9K_CONTENT::=}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=28}}${_p9k__n:=${${(M)${:-x}:#x($_p9k__bg|${_p9k__bg:-0})}:+30}}${_p9k__n:=31}${_p9k__c::="${P9K_CONTENT}"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__1los_icon+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}0}}}+}${${_p9k__e:#00}:+${${_p9k_t[$_p9k__n]/<_p9k__ss>/$_p9k__ss}/<_p9k__s>/$_p9k__s}${_p9k__c}%b%k%f${${:-${_p9k__s::=%F{\}}${_p9k__ss::= }${_p9k__sss::=%F{\} }${_p9k__i::=1}${_p9k__bg::=}}+}}${${:-${P9K_CONTENT::="%{d%}${:-"%B%F{039}"}${(Q)${:-"\\~"}}${:-"%b%k%F{031}"}/dev/${:-"%B%F{039}"}ROS2${:-"%b%k%F{031}"}%{d%}"}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=84}}${_p9k__n:=${${(M)${:-x}:#x($_p9k__bg|${_p9k__bg:-0})}:+86}}${_p9k__n:=87}${_p9k__v::=}${_p9k__c::="${P9K_CONTENT}"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__1ldir+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}1}}}+}${${_p9k__e:#00}:+${${_p9k_t[$_p9k__n]/<_p9k__ss>/$_p9k__ss}/<_p9k__s>/$_p9k__s}${_p9k__v}${${(M)_p9k__e:#11}:+ }${_p9k__c}%b%k%F{031\}${${:-${_p9k__s::=%F{\}}${_p9k__ss::= }${_p9k__sss::=%F{\} }${_p9k__i::=2}${_p9k__bg::=}}+}}${(e)_p9k__vcs}%b%k$_p9k__sss%b%k%f}}}+}${(e)_p9k_t[6]}${${_p9k__h::=0}+}${${_p9k__d::=$((_p9k__m-_p9k__h))}+}${_p9k__lprompt/\%\{d\%\}*\%\{d\%\}/${_p9k__1ldir-${:-"%B%F{039}"}${(Q)${:-"\\~"}}${:-"%b%k%F{031}"}/dev/${:-"%B%F{039}"}ROS2${:-"%b%k%F{031}"}}}${${_p9k__m::=$((_p9k__d+_p9k__h))}+}${${_p9k__g+
+}:-${:-"%F{240}"}${${${_p9k__m:#-*}:+${${_p9k__1g+${(pl.$((_p9k__m+1)).. .)}}:-${(pl.$((_p9k__m+1))..·.)}}$_p9k__rprompt${_p9k_t[$((1+!_p9k__ind))]}}:-
+}%b%k%f}}${_p9k__2-${_p9k__2l-${${:-${_p9k__bg::=NONE}${_p9k__i::=0}${_p9k__sss::=%f }}+}${${:-"${${:-$_p9k__keymap.$_p9k__zle_state}:#(vicmd.*|vivis.*|vivli.*|*.*overwrite*)}"}:+${${:-${P9K_CONTENT::=❯}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=36}}${_p9k__n:=${${(M)${:-x}:#x($_p9k__bg|${_p9k__bg:-0})}:+38}}${_p9k__n:=39}${_p9k__c::="❯"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__2lprompt_char+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}0}}}+}${${_p9k__e:#00}:+${${_p9k_t[$_p9k__n]/<_p9k__ss>/$_p9k__ss}/<_p9k__s>/$_p9k__s}${_p9k__c}%b%k%F{076\}${${:-${_p9k__s::=%F{\}}${_p9k__ss::= }${_p9k__sss::=%F{\}}${_p9k__i::=4}${_p9k__bg::=}}+}}}${${:-"${${:-$_p9k__keymap.$_p9k__zle_state}:#(vicmd.*|vivis.*|vivli.*|*.*insert*)}"}:+${${:-${P9K_CONTENT::=▶}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=40}}${_p9k__n:=${${(M)${:-x}:#x($_p9k__bg|${_p9k__bg:-0})}:+42}}${_p9k__n:=43}${_p9k__c::="▶"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__2lprompt_char+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}0}}}+}${${_p9k__e:#00}:+${${_p9k_t[$_p9k__n]/<_p9k__ss>/$_p9k__ss}/<_p9k__s>/$_p9k__s}${_p9k__c}%b%k%F{076\}${${:-${_p9k__s::=%F{\}}${_p9k__ss::= }${_p9k__sss::=%F{\}}${_p9k__i::=4}${_p9k__bg::=}}+}}}${${:-"${(M)${:-$_p9k__keymap$_p9k__region_active}:#vicmd0}"}:+${${:-${P9K_CONTENT::=❮}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=44}}${_p9k__n:=${${(M)${:-x}:#x($_p9k__bg|${_p9k__bg:-0})}:+46}}${_p9k__n:=47}${_p9k__c::="❮"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__2lprompt_char+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}0}}}+}${${_p9k__e:#00}:+${${_p9k_t[$_p9k__n]/<_p9k__ss>/$_p9k__ss}/<_p9k__s>/$_p9k__s}${_p9k__c}%b%k%F{076\}${${:-${_p9k__s::=%F{\}}${_p9k__ss::= }${_p9k__sss::=%F{\}}${_p9k__i::=4}${_p9k__bg::=}}+}}}${${:-"${(M)${:-$_p9k__keymap$_p9k__region_active}:#(vicmd1|vivis?|vivli?)}"}:+${${:-${P9K_CONTENT::=Ⅴ}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=48}}${_p9k__n:=${${(M)${:-x}:#x($_p9k__bg|${_p9k__bg:-0})}:+50}}${_p9k__n:=51}${_p9k__c::="V"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__2lprompt_char+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}0}}}+}${${_p9k__e:#00}:+${${_p9k_t[$_p9k__n]/<_p9k__ss>/$_p9k__ss}/<_p9k__s>/$_p9k__s}${_p9k__c}%b%k%F{076\}${${:-${_p9k__s::=%F{\}}${_p9k__ss::= }${_p9k__sss::=%F{\}}${_p9k__i::=4}${_p9k__bg::=}}+}}}%b%k$_p9k__sss%b%k%f${:-" %b%k%f"}}}${${COLUMNS::=$_p9k__clm}+} VIRTUAL_ENV_PROMPT=(myenv) /usr/bin/cmake --build /home/nazar/dev/ROS2/build/turtlesim -- -j8 -l8
+[0.224s] [35m[1mConsolidate compiler generated dependencies of target turtlesim__rosidl_generator_c[0m
+[0.233s] [  1%] Built target turtlesim__cpp
+[0.242s] [ 11%] Built target turtlesim__rosidl_generator_c
+[0.251s] [35m[1mConsolidate compiler generated dependencies of target turtlesim__rosidl_typesupport_cpp[0m
+[0.252s] [35m[1mConsolidate compiler generated dependencies of target turtlesim__rosidl_typesupport_introspection_cpp[0m
+[0.252s] [ 11%] Built target ament_cmake_python_copy_turtlesim
+[0.253s] [35m[1mConsolidate compiler generated dependencies of target turtlesim__rosidl_typesupport_fastrtps_cpp[0m
+[0.260s] [35m[1mConsolidate compiler generated dependencies of target turtlesim__rosidl_typesupport_fastrtps_c[0m
+[0.265s] [35m[1mConsolidate compiler generated dependencies of target turtlesim__rosidl_typesupport_c[0m
+[0.268s] [35m[1mConsolidate compiler generated dependencies of target turtlesim__rosidl_typesupport_introspection_c[0m
+[0.288s] [ 21%] Built target turtlesim__rosidl_typesupport_introspection_cpp
+[0.291s] [ 31%] Built target turtlesim__rosidl_typesupport_cpp
+[0.291s] [ 51%] Built target turtlesim__rosidl_typesupport_introspection_c
+[0.292s] [ 51%] Built target turtlesim__rosidl_typesupport_fastrtps_cpp
+[0.294s] [ 61%] Built target turtlesim__rosidl_typesupport_c
+[0.298s] [ 71%] Built target turtlesim__rosidl_typesupport_fastrtps_c
+[0.310s] [35m[1mConsolidate compiler generated dependencies of target turtlesim_node[0m
+[0.312s] [35m[1mConsolidate compiler generated dependencies of target draw_square[0m
+[0.318s] [35m[1mConsolidate compiler generated dependencies of target turtle_teleop_key[0m
+[0.325s] [35m[1mConsolidate compiler generated dependencies of target mimic[0m
+[0.326s] [ 71%] Built target turtlesim
+[0.339s] [ 73%] Built target draw_square
+[0.352s] [ 74%] Built target turtlesim__py
+[0.354s] [ 76%] Built target mimic
+[0.359s] [ 78%] Built target turtle_teleop_key
+[0.362s] [ 84%] Built target turtlesim_node
+[0.369s] [35m[1mConsolidate compiler generated dependencies of target turtlesim__rosidl_generator_py[0m
+[0.391s] [ 93%] Built target turtlesim__rosidl_generator_py
+[0.405s] [35m[1mConsolidate compiler generated dependencies of target turtlesim__rosidl_typesupport_fastrtps_c__pyext[0m
+[0.405s] [35m[1mConsolidate compiler generated dependencies of target turtlesim__rosidl_typesupport_introspection_c__pyext[0m
+[0.405s] [35m[1mConsolidate compiler generated dependencies of target turtlesim__rosidl_typesupport_c__pyext[0m
+[0.422s] [ 95%] Built target turtlesim__rosidl_typesupport_fastrtps_c__pyext
+[0.423s] [ 98%] Built target turtlesim__rosidl_typesupport_introspection_c__pyext
+[0.423s] [100%] Built target turtlesim__rosidl_typesupport_c__pyext
+[0.528s] running egg_info
+[0.539s] writing turtlesim.egg-info/PKG-INFO
+[0.539s] writing dependency_links to turtlesim.egg-info/dependency_links.txt
+[0.540s] writing top-level names to turtlesim.egg-info/top_level.txt
+[0.573s] reading manifest file 'turtlesim.egg-info/SOURCES.txt'
+[0.574s] writing manifest file 'turtlesim.egg-info/SOURCES.txt'
+[0.600s] [100%] Built target ament_cmake_python_build_turtlesim_egg
+[0.612s] Invoked command in '/home/nazar/dev/ROS2/build/turtlesim' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble PS1=(myenv) ${$((_p9k_on_expand()))+}%{${_p9k__raw_msg-}${_p9k__raw_msg::=}%}${(e)_p9k_t[7]}${_p9k__1-${${:-${_p9k__d::=0}${_p9k__rprompt::=${_p9k__1r-${${:-${_p9k__bg::=NONE}${_p9k__i::=0}${_p9k__sss::=${(Q)${:-"%\\{%\\}"}}}}+}${${:-${P9K_CONTENT::=}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=8}}${_p9k__n:=${${(M)${:-x$_p9k__bg}:#x(|0)}:+10}}${_p9k__n:=11}${_p9k__c::="${P9K_CONTENT}"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__1r:+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}0}}}+}${${_p9k__e:#00}:+${_p9k_t[$_p9k__n]/<_p9k__w>/$_p9k__w}${_p9k__c}%b%k%f${${:-${_p9k__w::=%b%k%f}${_p9k__sss::=%b%k%f}${_p9k__i::=1}${_p9k__bg::=}}+}}${${:-"${${(%):-%j}:#0}"}:+${${:-${P9K_CONTENT::=""}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=12}}${_p9k__n:=${${(M)${:-x$_p9k__bg}:#x(|0)}:+14}}${_p9k__n:=15}${_p9k__v::=}${_p9k__c::="${P9K_CONTENT}"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__1rbackground_jobs+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}1}}}+}${${_p9k__e:#00}:+${_p9k_t[$_p9k__n]/<_p9k__w>/$_p9k__w}${_p9k__v}${${(M)_p9k__e:#11}:+ }${_p9k__c}%b%k%F{070\}${${:-${_p9k__w::=%b%k%F{070\}}${_p9k__sss::=%b%k%F{070\}}${_p9k__i::=3}${_p9k__bg::=}}+}}}${${:-"${${(%):-%#}:#\#}"}:+${${:-${P9K_CONTENT::=%n@%m}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=16}}${_p9k__n:=${${(M)${:-x$_p9k__bg}:#x(|0)}:+18}}${_p9k__n:=19}${_p9k__c::=}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__1rcontext+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}0}}}+}${${_p9k__e:#00}:+${_p9k_t[$_p9k__n]/<_p9k__w>/$_p9k__w}${_p9k__c}%b%k%F{180\}${${:-${_p9k__w::=%b%k%F{180\}}${_p9k__sss::=%b%k%F{180\}}${_p9k__i::=31}${_p9k__bg::=}}+}}}${${:-"${${(%):-%#}:#\%}"}:+${${:-${P9K_CONTENT::=%B%n@%m}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=20}}${_p9k__n:=${${(M)${:-x$_p9k__bg}:#x(|0)}:+22}}${_p9k__n:=23}${_p9k__c::="${P9K_CONTENT}"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__1rcontext+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}0}}}+}${${_p9k__e:#00}:+${_p9k_t[$_p9k__n]/<_p9k__w>/$_p9k__w}${_p9k__c}%b%k%F{178\}${${:-${_p9k__w::=%b%k%F{178\}}${_p9k__sss::=%b%k%F{178\}}${_p9k__i::=31}${_p9k__bg::=}}+}}}${${:-${P9K_CONTENT::=19:31:23}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=24}}${_p9k__n:=${${(M)${:-x$_p9k__bg}:#x(|0)}:+26}}${_p9k__n:=27}${_p9k__v::=}${_p9k__c::="${P9K_CONTENT}"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__1rtime+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}1}}}+}${${_p9k__e:#00}:+${_p9k_t[$_p9k__n]/<_p9k__w>/$_p9k__w}${_p9k__v}${${(M)_p9k__e:#11}:+ }${_p9k__c}%b%k%F{066\}${${:-${_p9k__w::=%b%k%F{066\}}${_p9k__sss::=%b%k%F{066\}}${_p9k__i::=43}${_p9k__bg::=}}+}}$_p9k__sss%b%k%f}}${_p9k__lprompt::=${_p9k__1l-${${:-${_p9k__bg::=NONE}${_p9k__i::=0}${_p9k__sss::=%f }}+}${${:-${P9K_CONTENT::=}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=28}}${_p9k__n:=${${(M)${:-x}:#x($_p9k__bg|${_p9k__bg:-0})}:+30}}${_p9k__n:=31}${_p9k__c::="${P9K_CONTENT}"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__1los_icon+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}0}}}+}${${_p9k__e:#00}:+${${_p9k_t[$_p9k__n]/<_p9k__ss>/$_p9k__ss}/<_p9k__s>/$_p9k__s}${_p9k__c}%b%k%f${${:-${_p9k__s::=%F{\}}${_p9k__ss::= }${_p9k__sss::=%F{\} }${_p9k__i::=1}${_p9k__bg::=}}+}}${${:-${P9K_CONTENT::="%{d%}${:-"%B%F{039}"}${(Q)${:-"\\~"}}${:-"%b%k%F{031}"}/dev/${:-"%B%F{039}"}ROS2${:-"%b%k%F{031}"}%{d%}"}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=84}}${_p9k__n:=${${(M)${:-x}:#x($_p9k__bg|${_p9k__bg:-0})}:+86}}${_p9k__n:=87}${_p9k__v::=}${_p9k__c::="${P9K_CONTENT}"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__1ldir+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}1}}}+}${${_p9k__e:#00}:+${${_p9k_t[$_p9k__n]/<_p9k__ss>/$_p9k__ss}/<_p9k__s>/$_p9k__s}${_p9k__v}${${(M)_p9k__e:#11}:+ }${_p9k__c}%b%k%F{031\}${${:-${_p9k__s::=%F{\}}${_p9k__ss::= }${_p9k__sss::=%F{\} }${_p9k__i::=2}${_p9k__bg::=}}+}}${(e)_p9k__vcs}%b%k$_p9k__sss%b%k%f}}}+}${(e)_p9k_t[6]}${${_p9k__h::=0}+}${${_p9k__d::=$((_p9k__m-_p9k__h))}+}${_p9k__lprompt/\%\{d\%\}*\%\{d\%\}/${_p9k__1ldir-${:-"%B%F{039}"}${(Q)${:-"\\~"}}${:-"%b%k%F{031}"}/dev/${:-"%B%F{039}"}ROS2${:-"%b%k%F{031}"}}}${${_p9k__m::=$((_p9k__d+_p9k__h))}+}${${_p9k__g+
+}:-${:-"%F{240}"}${${${_p9k__m:#-*}:+${${_p9k__1g+${(pl.$((_p9k__m+1)).. .)}}:-${(pl.$((_p9k__m+1))..·.)}}$_p9k__rprompt${_p9k_t[$((1+!_p9k__ind))]}}:-
+}%b%k%f}}${_p9k__2-${_p9k__2l-${${:-${_p9k__bg::=NONE}${_p9k__i::=0}${_p9k__sss::=%f }}+}${${:-"${${:-$_p9k__keymap.$_p9k__zle_state}:#(vicmd.*|vivis.*|vivli.*|*.*overwrite*)}"}:+${${:-${P9K_CONTENT::=❯}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=36}}${_p9k__n:=${${(M)${:-x}:#x($_p9k__bg|${_p9k__bg:-0})}:+38}}${_p9k__n:=39}${_p9k__c::="❯"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__2lprompt_char+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}0}}}+}${${_p9k__e:#00}:+${${_p9k_t[$_p9k__n]/<_p9k__ss>/$_p9k__ss}/<_p9k__s>/$_p9k__s}${_p9k__c}%b%k%F{076\}${${:-${_p9k__s::=%F{\}}${_p9k__ss::= }${_p9k__sss::=%F{\}}${_p9k__i::=4}${_p9k__bg::=}}+}}}${${:-"${${:-$_p9k__keymap.$_p9k__zle_state}:#(vicmd.*|vivis.*|vivli.*|*.*insert*)}"}:+${${:-${P9K_CONTENT::=▶}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=40}}${_p9k__n:=${${(M)${:-x}:#x($_p9k__bg|${_p9k__bg:-0})}:+42}}${_p9k__n:=43}${_p9k__c::="▶"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__2lprompt_char+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}0}}}+}${${_p9k__e:#00}:+${${_p9k_t[$_p9k__n]/<_p9k__ss>/$_p9k__ss}/<_p9k__s>/$_p9k__s}${_p9k__c}%b%k%F{076\}${${:-${_p9k__s::=%F{\}}${_p9k__ss::= }${_p9k__sss::=%F{\}}${_p9k__i::=4}${_p9k__bg::=}}+}}}${${:-"${(M)${:-$_p9k__keymap$_p9k__region_active}:#vicmd0}"}:+${${:-${P9K_CONTENT::=❮}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=44}}${_p9k__n:=${${(M)${:-x}:#x($_p9k__bg|${_p9k__bg:-0})}:+46}}${_p9k__n:=47}${_p9k__c::="❮"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__2lprompt_char+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}0}}}+}${${_p9k__e:#00}:+${${_p9k_t[$_p9k__n]/<_p9k__ss>/$_p9k__ss}/<_p9k__s>/$_p9k__s}${_p9k__c}%b%k%F{076\}${${:-${_p9k__s::=%F{\}}${_p9k__ss::= }${_p9k__sss::=%F{\}}${_p9k__i::=4}${_p9k__bg::=}}+}}}${${:-"${(M)${:-$_p9k__keymap$_p9k__region_active}:#(vicmd1|vivis?|vivli?)}"}:+${${:-${P9K_CONTENT::=Ⅴ}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=48}}${_p9k__n:=${${(M)${:-x}:#x($_p9k__bg|${_p9k__bg:-0})}:+50}}${_p9k__n:=51}${_p9k__c::="V"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__2lprompt_char+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}0}}}+}${${_p9k__e:#00}:+${${_p9k_t[$_p9k__n]/<_p9k__ss>/$_p9k__ss}/<_p9k__s>/$_p9k__s}${_p9k__c}%b%k%F{076\}${${:-${_p9k__s::=%F{\}}${_p9k__ss::= }${_p9k__sss::=%F{\}}${_p9k__i::=4}${_p9k__bg::=}}+}}}%b%k$_p9k__sss%b%k%f${:-" %b%k%f"}}}${${COLUMNS::=$_p9k__clm}+} VIRTUAL_ENV_PROMPT=(myenv) /usr/bin/cmake --build /home/nazar/dev/ROS2/build/turtlesim -- -j8 -l8
+[0.813s] Invoking command in '/home/nazar/dev/ROS2/build/turtlesim': CMAKE_PREFIX_PATH=/opt/ros/humble PS1=(myenv) ${$((_p9k_on_expand()))+}%{${_p9k__raw_msg-}${_p9k__raw_msg::=}%}${(e)_p9k_t[7]}${_p9k__1-${${:-${_p9k__d::=0}${_p9k__rprompt::=${_p9k__1r-${${:-${_p9k__bg::=NONE}${_p9k__i::=0}${_p9k__sss::=${(Q)${:-"%\\{%\\}"}}}}+}${${:-${P9K_CONTENT::=}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=8}}${_p9k__n:=${${(M)${:-x$_p9k__bg}:#x(|0)}:+10}}${_p9k__n:=11}${_p9k__c::="${P9K_CONTENT}"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__1r:+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}0}}}+}${${_p9k__e:#00}:+${_p9k_t[$_p9k__n]/<_p9k__w>/$_p9k__w}${_p9k__c}%b%k%f${${:-${_p9k__w::=%b%k%f}${_p9k__sss::=%b%k%f}${_p9k__i::=1}${_p9k__bg::=}}+}}${${:-"${${(%):-%j}:#0}"}:+${${:-${P9K_CONTENT::=""}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=12}}${_p9k__n:=${${(M)${:-x$_p9k__bg}:#x(|0)}:+14}}${_p9k__n:=15}${_p9k__v::=}${_p9k__c::="${P9K_CONTENT}"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__1rbackground_jobs+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}1}}}+}${${_p9k__e:#00}:+${_p9k_t[$_p9k__n]/<_p9k__w>/$_p9k__w}${_p9k__v}${${(M)_p9k__e:#11}:+ }${_p9k__c}%b%k%F{070\}${${:-${_p9k__w::=%b%k%F{070\}}${_p9k__sss::=%b%k%F{070\}}${_p9k__i::=3}${_p9k__bg::=}}+}}}${${:-"${${(%):-%#}:#\#}"}:+${${:-${P9K_CONTENT::=%n@%m}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=16}}${_p9k__n:=${${(M)${:-x$_p9k__bg}:#x(|0)}:+18}}${_p9k__n:=19}${_p9k__c::=}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__1rcontext+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}0}}}+}${${_p9k__e:#00}:+${_p9k_t[$_p9k__n]/<_p9k__w>/$_p9k__w}${_p9k__c}%b%k%F{180\}${${:-${_p9k__w::=%b%k%F{180\}}${_p9k__sss::=%b%k%F{180\}}${_p9k__i::=31}${_p9k__bg::=}}+}}}${${:-"${${(%):-%#}:#\%}"}:+${${:-${P9K_CONTENT::=%B%n@%m}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=20}}${_p9k__n:=${${(M)${:-x$_p9k__bg}:#x(|0)}:+22}}${_p9k__n:=23}${_p9k__c::="${P9K_CONTENT}"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__1rcontext+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}0}}}+}${${_p9k__e:#00}:+${_p9k_t[$_p9k__n]/<_p9k__w>/$_p9k__w}${_p9k__c}%b%k%F{178\}${${:-${_p9k__w::=%b%k%F{178\}}${_p9k__sss::=%b%k%F{178\}}${_p9k__i::=31}${_p9k__bg::=}}+}}}${${:-${P9K_CONTENT::=19:31:23}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=24}}${_p9k__n:=${${(M)${:-x$_p9k__bg}:#x(|0)}:+26}}${_p9k__n:=27}${_p9k__v::=}${_p9k__c::="${P9K_CONTENT}"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__1rtime+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}1}}}+}${${_p9k__e:#00}:+${_p9k_t[$_p9k__n]/<_p9k__w>/$_p9k__w}${_p9k__v}${${(M)_p9k__e:#11}:+ }${_p9k__c}%b%k%F{066\}${${:-${_p9k__w::=%b%k%F{066\}}${_p9k__sss::=%b%k%F{066\}}${_p9k__i::=43}${_p9k__bg::=}}+}}$_p9k__sss%b%k%f}}${_p9k__lprompt::=${_p9k__1l-${${:-${_p9k__bg::=NONE}${_p9k__i::=0}${_p9k__sss::=%f }}+}${${:-${P9K_CONTENT::=}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=28}}${_p9k__n:=${${(M)${:-x}:#x($_p9k__bg|${_p9k__bg:-0})}:+30}}${_p9k__n:=31}${_p9k__c::="${P9K_CONTENT}"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__1los_icon+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}0}}}+}${${_p9k__e:#00}:+${${_p9k_t[$_p9k__n]/<_p9k__ss>/$_p9k__ss}/<_p9k__s>/$_p9k__s}${_p9k__c}%b%k%f${${:-${_p9k__s::=%F{\}}${_p9k__ss::= }${_p9k__sss::=%F{\} }${_p9k__i::=1}${_p9k__bg::=}}+}}${${:-${P9K_CONTENT::="%{d%}${:-"%B%F{039}"}${(Q)${:-"\\~"}}${:-"%b%k%F{031}"}/dev/${:-"%B%F{039}"}ROS2${:-"%b%k%F{031}"}%{d%}"}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=84}}${_p9k__n:=${${(M)${:-x}:#x($_p9k__bg|${_p9k__bg:-0})}:+86}}${_p9k__n:=87}${_p9k__v::=}${_p9k__c::="${P9K_CONTENT}"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__1ldir+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}1}}}+}${${_p9k__e:#00}:+${${_p9k_t[$_p9k__n]/<_p9k__ss>/$_p9k__ss}/<_p9k__s>/$_p9k__s}${_p9k__v}${${(M)_p9k__e:#11}:+ }${_p9k__c}%b%k%F{031\}${${:-${_p9k__s::=%F{\}}${_p9k__ss::= }${_p9k__sss::=%F{\} }${_p9k__i::=2}${_p9k__bg::=}}+}}${(e)_p9k__vcs}%b%k$_p9k__sss%b%k%f}}}+}${(e)_p9k_t[6]}${${_p9k__h::=0}+}${${_p9k__d::=$((_p9k__m-_p9k__h))}+}${_p9k__lprompt/\%\{d\%\}*\%\{d\%\}/${_p9k__1ldir-${:-"%B%F{039}"}${(Q)${:-"\\~"}}${:-"%b%k%F{031}"}/dev/${:-"%B%F{039}"}ROS2${:-"%b%k%F{031}"}}}${${_p9k__m::=$((_p9k__d+_p9k__h))}+}${${_p9k__g+
+}:-${:-"%F{240}"}${${${_p9k__m:#-*}:+${${_p9k__1g+${(pl.$((_p9k__m+1)).. .)}}:-${(pl.$((_p9k__m+1))..·.)}}$_p9k__rprompt${_p9k_t[$((1+!_p9k__ind))]}}:-
+}%b%k%f}}${_p9k__2-${_p9k__2l-${${:-${_p9k__bg::=NONE}${_p9k__i::=0}${_p9k__sss::=%f }}+}${${:-"${${:-$_p9k__keymap.$_p9k__zle_state}:#(vicmd.*|vivis.*|vivli.*|*.*overwrite*)}"}:+${${:-${P9K_CONTENT::=❯}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=36}}${_p9k__n:=${${(M)${:-x}:#x($_p9k__bg|${_p9k__bg:-0})}:+38}}${_p9k__n:=39}${_p9k__c::="❯"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__2lprompt_char+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}0}}}+}${${_p9k__e:#00}:+${${_p9k_t[$_p9k__n]/<_p9k__ss>/$_p9k__ss}/<_p9k__s>/$_p9k__s}${_p9k__c}%b%k%F{076\}${${:-${_p9k__s::=%F{\}}${_p9k__ss::= }${_p9k__sss::=%F{\}}${_p9k__i::=4}${_p9k__bg::=}}+}}}${${:-"${${:-$_p9k__keymap.$_p9k__zle_state}:#(vicmd.*|vivis.*|vivli.*|*.*insert*)}"}:+${${:-${P9K_CONTENT::=▶}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=40}}${_p9k__n:=${${(M)${:-x}:#x($_p9k__bg|${_p9k__bg:-0})}:+42}}${_p9k__n:=43}${_p9k__c::="▶"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__2lprompt_char+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}0}}}+}${${_p9k__e:#00}:+${${_p9k_t[$_p9k__n]/<_p9k__ss>/$_p9k__ss}/<_p9k__s>/$_p9k__s}${_p9k__c}%b%k%F{076\}${${:-${_p9k__s::=%F{\}}${_p9k__ss::= }${_p9k__sss::=%F{\}}${_p9k__i::=4}${_p9k__bg::=}}+}}}${${:-"${(M)${:-$_p9k__keymap$_p9k__region_active}:#vicmd0}"}:+${${:-${P9K_CONTENT::=❮}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=44}}${_p9k__n:=${${(M)${:-x}:#x($_p9k__bg|${_p9k__bg:-0})}:+46}}${_p9k__n:=47}${_p9k__c::="❮"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__2lprompt_char+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}0}}}+}${${_p9k__e:#00}:+${${_p9k_t[$_p9k__n]/<_p9k__ss>/$_p9k__ss}/<_p9k__s>/$_p9k__s}${_p9k__c}%b%k%F{076\}${${:-${_p9k__s::=%F{\}}${_p9k__ss::= }${_p9k__sss::=%F{\}}${_p9k__i::=4}${_p9k__bg::=}}+}}}${${:-"${(M)${:-$_p9k__keymap$_p9k__region_active}:#(vicmd1|vivis?|vivli?)}"}:+${${:-${P9K_CONTENT::=Ⅴ}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=48}}${_p9k__n:=${${(M)${:-x}:#x($_p9k__bg|${_p9k__bg:-0})}:+50}}${_p9k__n:=51}${_p9k__c::="V"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__2lprompt_char+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}0}}}+}${${_p9k__e:#00}:+${${_p9k_t[$_p9k__n]/<_p9k__ss>/$_p9k__ss}/<_p9k__s>/$_p9k__s}${_p9k__c}%b%k%F{076\}${${:-${_p9k__s::=%F{\}}${_p9k__ss::= }${_p9k__sss::=%F{\}}${_p9k__i::=4}${_p9k__bg::=}}+}}}%b%k$_p9k__sss%b%k%f${:-" %b%k%f"}}}${${COLUMNS::=$_p9k__clm}+} VIRTUAL_ENV_PROMPT=(myenv) /usr/bin/cmake --install /home/nazar/dev/ROS2/build/turtlesim
+[0.824s] -- Install configuration: ""
+[0.824s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/ament_index/resource_index/rosidl_interfaces/turtlesim
+[0.824s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim
+[0.824s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv
+[0.824s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail
+[0.825s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__struct.h
+[0.825s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__functions.h
+[0.825s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__functions.c
+[0.825s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__functions.c
+[0.825s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__type_support.h
+[0.825s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__functions.h
+[0.825s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__functions.c
+[0.826s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__type_support.h
+[0.826s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__struct.h
+[0.826s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__struct.h
+[0.826s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__functions.h
+[0.826s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__type_support.h
+[0.826s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__functions.h
+[0.826s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__functions.c
+[0.826s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__type_support.h
+[0.826s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__functions.c
+[0.826s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__type_support.h
+[0.827s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__struct.h
+[0.827s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__functions.h
+[0.827s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__struct.h
+[0.827s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/teleport_relative.h
+[0.827s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/spawn.h
+[0.827s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/kill.h
+[0.827s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/teleport_absolute.h
+[0.827s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/set_pen.h
+[0.828s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/action
+[0.828s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/action/detail
+[0.828s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__functions.h
+[0.828s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__type_support.h
+[0.828s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__struct.h
+[0.828s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__functions.c
+[0.828s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/action/rotate_absolute.h
+[0.828s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg
+[0.828s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/rosidl_generator_c__visibility_control.h
+[0.828s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/detail
+[0.828s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__struct.h
+[0.829s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__type_support.h
+[0.829s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__functions.h
+[0.829s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__functions.c
+[0.829s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__type_support.h
+[0.829s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__functions.h
+[0.829s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__functions.c
+[0.829s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__struct.h
+[0.829s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/color.h
+[0.829s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/pose.h
+[0.829s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/environment/library_path.sh
+[0.829s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/environment/library_path.dsv
+[0.829s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/libturtlesim__rosidl_generator_c.so
+[0.829s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim
+[0.829s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv
+[0.830s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail
+[0.830s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__rosidl_typesupport_fastrtps_c.h
+[0.830s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__rosidl_typesupport_fastrtps_c.h
+[0.830s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__rosidl_typesupport_fastrtps_c.h
+[0.830s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__rosidl_typesupport_fastrtps_c.h
+[0.830s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__rosidl_typesupport_fastrtps_c.h
+[0.830s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/action
+[0.830s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/action/detail
+[0.830s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__rosidl_typesupport_fastrtps_c.h
+[0.830s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg
+[0.830s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/detail
+[0.831s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__rosidl_typesupport_fastrtps_c.h
+[0.831s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__rosidl_typesupport_fastrtps_c.h
+[0.831s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[0.831s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/libturtlesim__rosidl_typesupport_fastrtps_c.so
+[0.831s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim
+[0.831s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv
+[0.831s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/kill.hpp
+[0.831s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail
+[0.831s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__struct.hpp
+[0.832s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__traits.hpp
+[0.832s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__traits.hpp
+[0.832s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__traits.hpp
+[0.832s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__traits.hpp
+[0.832s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__struct.hpp
+[0.832s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__builder.hpp
+[0.832s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__struct.hpp
+[0.832s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__struct.hpp
+[0.832s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__builder.hpp
+[0.832s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__builder.hpp
+[0.832s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__builder.hpp
+[0.833s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__builder.hpp
+[0.833s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__traits.hpp
+[0.833s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__struct.hpp
+[0.833s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/teleport_relative.hpp
+[0.833s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/spawn.hpp
+[0.833s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/teleport_absolute.hpp
+[0.833s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/set_pen.hpp
+[0.833s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/action
+[0.833s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/action/rotate_absolute.hpp
+[0.834s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/action/detail
+[0.834s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__traits.hpp
+[0.834s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__builder.hpp
+[0.834s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__struct.hpp
+[0.834s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg
+[0.834s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/detail
+[0.834s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__traits.hpp
+[0.834s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__struct.hpp
+[0.834s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__builder.hpp
+[0.835s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__struct.hpp
+[0.835s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__builder.hpp
+[0.835s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__traits.hpp
+[0.835s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/pose.hpp
+[0.835s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/color.hpp
+[0.835s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim
+[0.835s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv
+[0.836s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail
+[0.836s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__rosidl_typesupport_fastrtps_cpp.hpp
+[0.836s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__rosidl_typesupport_fastrtps_cpp.hpp
+[0.836s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__rosidl_typesupport_fastrtps_cpp.hpp
+[0.836s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__rosidl_typesupport_fastrtps_cpp.hpp
+[0.836s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__rosidl_typesupport_fastrtps_cpp.hpp
+[0.836s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/dds_fastrtps
+[0.836s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/action
+[0.837s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/action/detail
+[0.837s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__rosidl_typesupport_fastrtps_cpp.hpp
+[0.837s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/action/detail/dds_fastrtps
+[0.837s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg
+[0.837s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/detail
+[0.837s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__rosidl_typesupport_fastrtps_cpp.hpp
+[0.837s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/detail/dds_fastrtps
+[0.837s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__rosidl_typesupport_fastrtps_cpp.hpp
+[0.838s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[0.838s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/libturtlesim__rosidl_typesupport_fastrtps_cpp.so
+[0.838s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim
+[0.838s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv
+[0.838s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail
+[0.838s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__rosidl_typesupport_introspection_c.h
+[0.838s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__rosidl_typesupport_introspection_c.h
+[0.838s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__rosidl_typesupport_introspection_c.h
+[0.839s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__type_support.c
+[0.839s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__type_support.c
+[0.839s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__rosidl_typesupport_introspection_c.h
+[0.839s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__type_support.c
+[0.839s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__type_support.c
+[0.839s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__rosidl_typesupport_introspection_c.h
+[0.839s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__type_support.c
+[0.839s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/action
+[0.839s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/action/detail
+[0.840s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__rosidl_typesupport_introspection_c.h
+[0.840s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__type_support.c
+[0.840s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg
+[0.840s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/detail
+[0.840s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__type_support.c
+[0.840s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__rosidl_typesupport_introspection_c.h
+[0.840s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__type_support.c
+[0.840s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__rosidl_typesupport_introspection_c.h
+[0.840s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[0.840s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/libturtlesim__rosidl_typesupport_introspection_c.so
+[0.841s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/libturtlesim__rosidl_typesupport_c.so
+[0.841s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim
+[0.841s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv
+[0.841s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail
+[0.841s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__type_support.cpp
+[0.841s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__type_support.cpp
+[0.841s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__rosidl_typesupport_introspection_cpp.hpp
+[0.841s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__rosidl_typesupport_introspection_cpp.hpp
+[0.841s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__type_support.cpp
+[0.842s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__rosidl_typesupport_introspection_cpp.hpp
+[0.842s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__type_support.cpp
+[0.842s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__rosidl_typesupport_introspection_cpp.hpp
+[0.842s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__rosidl_typesupport_introspection_cpp.hpp
+[0.842s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__type_support.cpp
+[0.842s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/action
+[0.842s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/action/detail
+[0.842s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__rosidl_typesupport_introspection_cpp.hpp
+[0.842s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__type_support.cpp
+[0.842s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg
+[0.843s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/detail
+[0.843s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__rosidl_typesupport_introspection_cpp.hpp
+[0.843s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__rosidl_typesupport_introspection_cpp.hpp
+[0.843s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__type_support.cpp
+[0.843s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__type_support.cpp
+[0.843s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/libturtlesim__rosidl_typesupport_introspection_cpp.so
+[0.843s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/libturtlesim__rosidl_typesupport_cpp.so
+[0.843s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/environment/pythonpath.sh
+[0.843s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/environment/pythonpath.dsv
+[0.844s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim-1.4.2-py3.10.egg-info
+[0.844s] -- Installing: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim-1.4.2-py3.10.egg-info/top_level.txt
+[0.844s] -- Installing: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim-1.4.2-py3.10.egg-info/SOURCES.txt
+[0.844s] -- Installing: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim-1.4.2-py3.10.egg-info/PKG-INFO
+[0.844s] -- Installing: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim-1.4.2-py3.10.egg-info/dependency_links.txt
+[0.844s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim
+[0.844s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/turtlesim_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.844s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/turtlesim_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.844s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/srv
+[0.845s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/srv/_teleport_absolute.py
+[0.845s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/srv/_teleport_relative_s.c
+[0.845s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/srv/_teleport_relative.py
+[0.845s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/srv/_kill_s.c
+[0.845s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/srv/__init__.py
+[0.845s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/srv/_spawn.py
+[0.845s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/srv/_teleport_absolute_s.c
+[0.845s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/srv/_set_pen_s.c
+[0.845s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/srv/_set_pen.py
+[0.846s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/srv/_kill.py
+[0.846s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/srv/_spawn_s.c
+[0.846s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/action
+[0.846s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/action/_rotate_absolute.py
+[0.846s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/action/__init__.py
+[0.846s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/action/_rotate_absolute_s.c
+[0.846s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/turtlesim_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.846s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/_turtlesim_s.ep.rosidl_typesupport_c.c
+[0.846s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/__init__.py
+[0.847s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/libturtlesim__rosidl_generator_py.so
+[0.847s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/_turtlesim_s.ep.rosidl_typesupport_introspection_c.c
+[0.847s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/msg
+[0.847s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/msg/_color_s.c
+[0.847s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/msg/_pose.py
+[0.847s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/msg/__init__.py
+[0.847s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/msg/_pose_s.c
+[0.847s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/msg/_color.py
+[0.847s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/_turtlesim_s.ep.rosidl_typesupport_fastrtps_c.c
+[0.869s] Listing '/home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim'...
+[0.870s] Listing '/home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/action'...
+[0.870s] Listing '/home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/msg'...
+[0.870s] Listing '/home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/srv'...
+[0.874s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/turtlesim_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.874s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/turtlesim_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.875s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/python3.10/site-packages/turtlesim/turtlesim_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.875s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/libturtlesim__rosidl_generator_py.so
+[0.875s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/action/RotateAbsolute.idl
+[0.875s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/msg/Color.idl
+[0.876s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/msg/Pose.idl
+[0.876s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/srv/Kill.idl
+[0.876s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/srv/SetPen.idl
+[0.876s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/srv/Spawn.idl
+[0.876s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/srv/TeleportAbsolute.idl
+[0.876s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/srv/TeleportRelative.idl
+[0.876s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/action/RotateAbsolute.action
+[0.876s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/msg/Color.msg
+[0.876s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/msg/Pose.msg
+[0.877s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/srv/Kill.srv
+[0.877s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/srv/Kill_Request.msg
+[0.877s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/srv/Kill_Response.msg
+[0.877s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/srv/SetPen.srv
+[0.877s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/srv/SetPen_Request.msg
+[0.877s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/srv/SetPen_Response.msg
+[0.877s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/srv/Spawn.srv
+[0.877s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/srv/Spawn_Request.msg
+[0.877s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/srv/Spawn_Response.msg
+[0.878s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/srv/TeleportAbsolute.srv
+[0.878s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/srv/TeleportAbsolute_Request.msg
+[0.878s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/srv/TeleportAbsolute_Response.msg
+[0.878s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/srv/TeleportRelative.srv
+[0.878s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/srv/TeleportRelative_Request.msg
+[0.878s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/srv/TeleportRelative_Response.msg
+[0.878s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/turtlesim/turtlesim_node
+[0.878s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/turtlesim/turtle_teleop_key
+[0.878s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/turtlesim/draw_square
+[0.879s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/lib/turtlesim/mimic
+[0.879s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/images
+[0.880s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/images/crystal.png
+[0.880s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/images/ardent.png
+[0.880s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/images/eloquent.png
+[0.880s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/images/galactic.png
+[0.880s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/images/bouncy.png
+[0.880s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/images/rolling.png
+[0.880s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/images/humble.png
+[0.880s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/images/dashing.png
+[0.881s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/images/foxy.png
+[0.881s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/launch
+[0.881s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/launch/multisim.launch.py
+[0.881s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/ament_index/resource_index/package_run_dependencies/turtlesim
+[0.881s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/ament_index/resource_index/parent_prefix_path/turtlesim
+[0.881s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/environment/ament_prefix_path.sh
+[0.881s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/environment/ament_prefix_path.dsv
+[0.881s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/environment/path.sh
+[0.882s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/environment/path.dsv
+[0.882s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/local_setup.bash
+[0.882s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/local_setup.sh
+[0.882s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/local_setup.zsh
+[0.882s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/local_setup.dsv
+[0.882s] -- Installing: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/package.dsv
+[0.882s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/ament_index/resource_index/packages/turtlesim
+[0.882s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_generator_cExport.cmake
+[0.882s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_generator_cExport-noconfig.cmake
+[0.883s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_typesupport_fastrtps_cExport.cmake
+[0.883s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[0.883s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_generator_cppExport.cmake
+[0.883s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_typesupport_fastrtps_cppExport.cmake
+[0.883s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[0.883s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_introspection_cExport.cmake
+[0.883s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[0.883s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_cExport.cmake
+[0.883s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_cExport-noconfig.cmake
+[0.884s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_introspection_cppExport.cmake
+[0.884s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[0.884s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_cppExport.cmake
+[0.884s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_cppExport-noconfig.cmake
+[0.884s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_generator_pyExport.cmake
+[0.884s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_generator_pyExport-noconfig.cmake
+[0.884s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/cmake/rosidl_cmake-extras.cmake
+[0.884s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.884s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.884s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/cmake/ament_cmake_export_libraries-extras.cmake
+[0.885s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/cmake/ament_cmake_export_targets-extras.cmake
+[0.885s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[0.885s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[0.885s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/cmake/turtlesimConfig.cmake
+[0.885s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/cmake/turtlesimConfig-version.cmake
+[0.885s] -- Up-to-date: /home/nazar/dev/ROS2/install/turtlesim/share/turtlesim/package.xml
+[0.887s] Invoked command in '/home/nazar/dev/ROS2/build/turtlesim' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble PS1=(myenv) ${$((_p9k_on_expand()))+}%{${_p9k__raw_msg-}${_p9k__raw_msg::=}%}${(e)_p9k_t[7]}${_p9k__1-${${:-${_p9k__d::=0}${_p9k__rprompt::=${_p9k__1r-${${:-${_p9k__bg::=NONE}${_p9k__i::=0}${_p9k__sss::=${(Q)${:-"%\\{%\\}"}}}}+}${${:-${P9K_CONTENT::=}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=8}}${_p9k__n:=${${(M)${:-x$_p9k__bg}:#x(|0)}:+10}}${_p9k__n:=11}${_p9k__c::="${P9K_CONTENT}"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__1r:+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}0}}}+}${${_p9k__e:#00}:+${_p9k_t[$_p9k__n]/<_p9k__w>/$_p9k__w}${_p9k__c}%b%k%f${${:-${_p9k__w::=%b%k%f}${_p9k__sss::=%b%k%f}${_p9k__i::=1}${_p9k__bg::=}}+}}${${:-"${${(%):-%j}:#0}"}:+${${:-${P9K_CONTENT::=""}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=12}}${_p9k__n:=${${(M)${:-x$_p9k__bg}:#x(|0)}:+14}}${_p9k__n:=15}${_p9k__v::=}${_p9k__c::="${P9K_CONTENT}"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__1rbackground_jobs+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}1}}}+}${${_p9k__e:#00}:+${_p9k_t[$_p9k__n]/<_p9k__w>/$_p9k__w}${_p9k__v}${${(M)_p9k__e:#11}:+ }${_p9k__c}%b%k%F{070\}${${:-${_p9k__w::=%b%k%F{070\}}${_p9k__sss::=%b%k%F{070\}}${_p9k__i::=3}${_p9k__bg::=}}+}}}${${:-"${${(%):-%#}:#\#}"}:+${${:-${P9K_CONTENT::=%n@%m}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=16}}${_p9k__n:=${${(M)${:-x$_p9k__bg}:#x(|0)}:+18}}${_p9k__n:=19}${_p9k__c::=}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__1rcontext+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}0}}}+}${${_p9k__e:#00}:+${_p9k_t[$_p9k__n]/<_p9k__w>/$_p9k__w}${_p9k__c}%b%k%F{180\}${${:-${_p9k__w::=%b%k%F{180\}}${_p9k__sss::=%b%k%F{180\}}${_p9k__i::=31}${_p9k__bg::=}}+}}}${${:-"${${(%):-%#}:#\%}"}:+${${:-${P9K_CONTENT::=%B%n@%m}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=20}}${_p9k__n:=${${(M)${:-x$_p9k__bg}:#x(|0)}:+22}}${_p9k__n:=23}${_p9k__c::="${P9K_CONTENT}"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__1rcontext+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}0}}}+}${${_p9k__e:#00}:+${_p9k_t[$_p9k__n]/<_p9k__w>/$_p9k__w}${_p9k__c}%b%k%F{178\}${${:-${_p9k__w::=%b%k%F{178\}}${_p9k__sss::=%b%k%F{178\}}${_p9k__i::=31}${_p9k__bg::=}}+}}}${${:-${P9K_CONTENT::=19:31:23}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=24}}${_p9k__n:=${${(M)${:-x$_p9k__bg}:#x(|0)}:+26}}${_p9k__n:=27}${_p9k__v::=}${_p9k__c::="${P9K_CONTENT}"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__1rtime+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}1}}}+}${${_p9k__e:#00}:+${_p9k_t[$_p9k__n]/<_p9k__w>/$_p9k__w}${_p9k__v}${${(M)_p9k__e:#11}:+ }${_p9k__c}%b%k%F{066\}${${:-${_p9k__w::=%b%k%F{066\}}${_p9k__sss::=%b%k%F{066\}}${_p9k__i::=43}${_p9k__bg::=}}+}}$_p9k__sss%b%k%f}}${_p9k__lprompt::=${_p9k__1l-${${:-${_p9k__bg::=NONE}${_p9k__i::=0}${_p9k__sss::=%f }}+}${${:-${P9K_CONTENT::=}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=28}}${_p9k__n:=${${(M)${:-x}:#x($_p9k__bg|${_p9k__bg:-0})}:+30}}${_p9k__n:=31}${_p9k__c::="${P9K_CONTENT}"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__1los_icon+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}0}}}+}${${_p9k__e:#00}:+${${_p9k_t[$_p9k__n]/<_p9k__ss>/$_p9k__ss}/<_p9k__s>/$_p9k__s}${_p9k__c}%b%k%f${${:-${_p9k__s::=%F{\}}${_p9k__ss::= }${_p9k__sss::=%F{\} }${_p9k__i::=1}${_p9k__bg::=}}+}}${${:-${P9K_CONTENT::="%{d%}${:-"%B%F{039}"}${(Q)${:-"\\~"}}${:-"%b%k%F{031}"}/dev/${:-"%B%F{039}"}ROS2${:-"%b%k%F{031}"}%{d%}"}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=84}}${_p9k__n:=${${(M)${:-x}:#x($_p9k__bg|${_p9k__bg:-0})}:+86}}${_p9k__n:=87}${_p9k__v::=}${_p9k__c::="${P9K_CONTENT}"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__1ldir+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}1}}}+}${${_p9k__e:#00}:+${${_p9k_t[$_p9k__n]/<_p9k__ss>/$_p9k__ss}/<_p9k__s>/$_p9k__s}${_p9k__v}${${(M)_p9k__e:#11}:+ }${_p9k__c}%b%k%F{031\}${${:-${_p9k__s::=%F{\}}${_p9k__ss::= }${_p9k__sss::=%F{\} }${_p9k__i::=2}${_p9k__bg::=}}+}}${(e)_p9k__vcs}%b%k$_p9k__sss%b%k%f}}}+}${(e)_p9k_t[6]}${${_p9k__h::=0}+}${${_p9k__d::=$((_p9k__m-_p9k__h))}+}${_p9k__lprompt/\%\{d\%\}*\%\{d\%\}/${_p9k__1ldir-${:-"%B%F{039}"}${(Q)${:-"\\~"}}${:-"%b%k%F{031}"}/dev/${:-"%B%F{039}"}ROS2${:-"%b%k%F{031}"}}}${${_p9k__m::=$((_p9k__d+_p9k__h))}+}${${_p9k__g+
+}:-${:-"%F{240}"}${${${_p9k__m:#-*}:+${${_p9k__1g+${(pl.$((_p9k__m+1)).. .)}}:-${(pl.$((_p9k__m+1))..·.)}}$_p9k__rprompt${_p9k_t[$((1+!_p9k__ind))]}}:-
+}%b%k%f}}${_p9k__2-${_p9k__2l-${${:-${_p9k__bg::=NONE}${_p9k__i::=0}${_p9k__sss::=%f }}+}${${:-"${${:-$_p9k__keymap.$_p9k__zle_state}:#(vicmd.*|vivis.*|vivli.*|*.*overwrite*)}"}:+${${:-${P9K_CONTENT::=❯}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=36}}${_p9k__n:=${${(M)${:-x}:#x($_p9k__bg|${_p9k__bg:-0})}:+38}}${_p9k__n:=39}${_p9k__c::="❯"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__2lprompt_char+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}0}}}+}${${_p9k__e:#00}:+${${_p9k_t[$_p9k__n]/<_p9k__ss>/$_p9k__ss}/<_p9k__s>/$_p9k__s}${_p9k__c}%b%k%F{076\}${${:-${_p9k__s::=%F{\}}${_p9k__ss::= }${_p9k__sss::=%F{\}}${_p9k__i::=4}${_p9k__bg::=}}+}}}${${:-"${${:-$_p9k__keymap.$_p9k__zle_state}:#(vicmd.*|vivis.*|vivli.*|*.*insert*)}"}:+${${:-${P9K_CONTENT::=▶}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=40}}${_p9k__n:=${${(M)${:-x}:#x($_p9k__bg|${_p9k__bg:-0})}:+42}}${_p9k__n:=43}${_p9k__c::="▶"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__2lprompt_char+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}0}}}+}${${_p9k__e:#00}:+${${_p9k_t[$_p9k__n]/<_p9k__ss>/$_p9k__ss}/<_p9k__s>/$_p9k__s}${_p9k__c}%b%k%F{076\}${${:-${_p9k__s::=%F{\}}${_p9k__ss::= }${_p9k__sss::=%F{\}}${_p9k__i::=4}${_p9k__bg::=}}+}}}${${:-"${(M)${:-$_p9k__keymap$_p9k__region_active}:#vicmd0}"}:+${${:-${P9K_CONTENT::=❮}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=44}}${_p9k__n:=${${(M)${:-x}:#x($_p9k__bg|${_p9k__bg:-0})}:+46}}${_p9k__n:=47}${_p9k__c::="❮"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__2lprompt_char+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}0}}}+}${${_p9k__e:#00}:+${${_p9k_t[$_p9k__n]/<_p9k__ss>/$_p9k__ss}/<_p9k__s>/$_p9k__s}${_p9k__c}%b%k%F{076\}${${:-${_p9k__s::=%F{\}}${_p9k__ss::= }${_p9k__sss::=%F{\}}${_p9k__i::=4}${_p9k__bg::=}}+}}}${${:-"${(M)${:-$_p9k__keymap$_p9k__region_active}:#(vicmd1|vivis?|vivli?)}"}:+${${:-${P9K_CONTENT::=Ⅴ}${_p9k__n::=}${${${_p9k__bg:-0}:#NONE}:-${_p9k__n::=48}}${_p9k__n:=${${(M)${:-x}:#x($_p9k__bg|${_p9k__bg:-0})}:+50}}${_p9k__n:=51}${_p9k__c::="V"}${_p9k__c::=${_p9k__c//
+}}${_p9k__e::=${${_p9k__2lprompt_char+00}:-${${(%):-$_p9k__c%1(l.1.0)}[-1]}0}}}+}${${_p9k__e:#00}:+${${_p9k_t[$_p9k__n]/<_p9k__ss>/$_p9k__ss}/<_p9k__s>/$_p9k__s}${_p9k__c}%b%k%F{076\}${${:-${_p9k__s::=%F{\}}${_p9k__ss::= }${_p9k__sss::=%F{\}}${_p9k__i::=4}${_p9k__bg::=}}+}}}%b%k$_p9k__sss%b%k%f${:-" %b%k%f"}}}${${COLUMNS::=$_p9k__clm}+} VIRTUAL_ENV_PROMPT=(myenv) /usr/bin/cmake --install /home/nazar/dev/ROS2/build/turtlesim

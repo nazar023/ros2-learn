@@ -1,0 +1,6 @@
+{
+  "package_name": "cool_service",
+  "non_idl_tuples": [
+    "/home/nazar/dev/ROS2/src/cool_service:srv/Cool.srv"
+  ]
+}

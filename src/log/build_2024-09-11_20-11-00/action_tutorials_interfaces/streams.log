@@ -1,0 +1,21 @@
+[0.013s] Invoking command in '/home/nazar/dev/ROS2/src/build/action_tutorials_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/nazar/dev/ROS2/src/action_tutorials_interfaces -DCMAKE_INSTALL_PREFIX=/home/nazar/dev/ROS2/src/install/action_tutorials_interfaces
+[0.190s] -- Configuring incomplete, errors occurred!
+[0.191s] See also "/home/nazar/dev/ROS2/src/build/action_tutorials_interfaces/CMakeFiles/CMakeOutput.log".
+[0.192s] [31mCMake Error at CMakeLists.txt:4 (find_package):
+[0.192s]   By not providing "Findrosidl_default_generators.cmake" in CMAKE_MODULE_PATH
+[0.192s]   this project has asked CMake to find a package configuration file provided
+[0.193s]   by "rosidl_default_generators", but CMake did not find one.
+[0.193s] 
+[0.193s]   Could not find a package configuration file provided by
+[0.193s]   "rosidl_default_generators" with any of the following names:
+[0.193s] 
+[0.193s]     rosidl_default_generatorsConfig.cmake
+[0.193s]     rosidl_default_generators-config.cmake
+[0.193s] 
+[0.194s]   Add the installation prefix of "rosidl_default_generators" to
+[0.194s]   CMAKE_PREFIX_PATH or set "rosidl_default_generators_DIR" to a directory
+[0.194s]   containing one of the above files.  If "rosidl_default_generators" provides
+[0.194s]   a separate development package or SDK, be sure it has been installed.
+[0.194s] 
+[0.194s] [0m
+[0.374s] Invoked command in '/home/nazar/dev/ROS2/src/build/action_tutorials_interfaces' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/nazar/dev/ROS2/src/action_tutorials_interfaces -DCMAKE_INSTALL_PREFIX=/home/nazar/dev/ROS2/src/install/action_tutorials_interfaces

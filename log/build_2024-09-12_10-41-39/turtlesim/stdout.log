@@ -1,0 +1,9 @@
+[  1%] Built target turtlesim__cpp
+[ 11%] Built target turtlesim__rosidl_generator_c
+[ 11%] Built target ament_cmake_python_copy_turtlesim
+[ 21%] Built target turtlesim__rosidl_typesupport_introspection_c
+[ 31%] Built target turtlesim__rosidl_typesupport_introspection_cpp
+[ 41%] Built target turtlesim__rosidl_typesupport_cpp
+[ 51%] Built target turtlesim__rosidl_typesupport_fastrtps_cpp
+[ 61%] Built target turtlesim__rosidl_typesupport_c
+[ 71%] Built target turtlesim__rosidl_typesupport_fastrtps_c

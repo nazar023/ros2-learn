@@ -1,0 +1,4 @@
+source;share/toxic_relationship/environment/ament_prefix_path.sh
+source;share/toxic_relationship/environment/library_path.sh
+source;share/toxic_relationship/environment/path.sh
+source;share/toxic_relationship/environment/pythonpath.sh

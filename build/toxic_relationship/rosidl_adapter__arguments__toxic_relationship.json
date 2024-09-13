@@ -1,0 +1,6 @@
+{
+  "package_name": "toxic_relationship",
+  "non_idl_tuples": [
+    "/home/nazar/dev/ROS2/src/toxic_relationship:action/ToxicRelationship.action"
+  ]
+}

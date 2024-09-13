@@ -1,0 +1,22 @@
+[0.009s] Invoking command in '/home/nazar/dev/ROS2/src/build/action_tutorials_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble PS1=(ros2_env) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ VIRTUAL_ENV_PROMPT=(ros2_env) /usr/bin/cmake /home/nazar/dev/ROS2/src/action_tutorials_interfaces -DCMAKE_INSTALL_PREFIX=/home/nazar/dev/ROS2/src/install/action_tutorials_interfaces
+[0.019s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.171s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.191s] Traceback (most recent call last):
+[0.191s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 22, in <module>
+[0.191s]     from catkin_pkg.package import parse_package_string
+[0.191s] ModuleNotFoundError: No module named 'catkin_pkg'
+[0.194s] [31mCMake Error at /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:95 (message):
+[0.194s]   execute_process(/home/linuxbrew/.linuxbrew/bin/python3
+[0.194s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py
+[0.194s]   /home/nazar/dev/ROS2/src/action_tutorials_interfaces/package.xml
+[0.194s]   /home/nazar/dev/ROS2/src/build/action_tutorials_interfaces/ament_cmake_core/package.cmake)
+[0.194s]   returned error code 1
+[0.194s] Call Stack (most recent call first):
+[0.194s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:49 (_ament_package_xml)
+[0.194s]   /opt/ros/humble/share/ament_lint_auto/cmake/ament_lint_auto_find_test_dependencies.cmake:31 (ament_package_xml)
+[0.194s]   CMakeLists.txt:23 (ament_lint_auto_find_test_dependencies)
+[0.194s] 
+[0.194s] [0m
+[0.195s] -- Configuring incomplete, errors occurred!
+[0.195s] See also "/home/nazar/dev/ROS2/src/build/action_tutorials_interfaces/CMakeFiles/CMakeOutput.log".
+[0.197s] Invoked command in '/home/nazar/dev/ROS2/src/build/action_tutorials_interfaces' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble PS1=(ros2_env) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ VIRTUAL_ENV_PROMPT=(ros2_env) /usr/bin/cmake /home/nazar/dev/ROS2/src/action_tutorials_interfaces -DCMAKE_INSTALL_PREFIX=/home/nazar/dev/ROS2/src/install/action_tutorials_interfaces

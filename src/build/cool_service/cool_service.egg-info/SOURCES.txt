@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+../build/cool_service/cool_service.egg-info/PKG-INFO
+../build/cool_service/cool_service.egg-info/SOURCES.txt
+../build/cool_service/cool_service.egg-info/dependency_links.txt
+../build/cool_service/cool_service.egg-info/entry_points.txt
+../build/cool_service/cool_service.egg-info/requires.txt
+../build/cool_service/cool_service.egg-info/top_level.txt
+../build/cool_service/cool_service.egg-info/zip-safe
+cool_service/__init__.py
+resource/cool_service
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

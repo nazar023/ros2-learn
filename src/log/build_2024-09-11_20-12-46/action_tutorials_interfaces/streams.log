@@ -1,0 +1,43 @@
+[0.014s] Invoking command in '/home/nazar/dev/ROS2/src/build/action_tutorials_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/nazar/dev/ROS2/src/action_tutorials_interfaces -DCMAKE_INSTALL_PREFIX=/home/nazar/dev/ROS2/src/install/action_tutorials_interfaces
+[0.242s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.242s] -- Found ament_cmake_core: 1.3.10 (/opt/ros/humble/share/ament_cmake_core/cmake)
+[0.243s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.243s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.243s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.351s] [31mCMake Error at /opt/ros/humble/share/rosidl_adapter/cmake/rosidl_adapt_interfaces.cmake:59 (message):
+[0.351s]   execute_process(/home/linuxbrew/.linuxbrew/bin/python3 -m rosidl_adapter
+[0.351s]   --package-name action_tutorials_interfaces --arguments-file
+[0.351s]   /home/nazar/dev/ROS2/src/build/action_tutorials_interfaces/rosidl_adapter__arguments__action_tutorials_interfaces.json
+[0.352s]   --output-dir
+[0.352s]   /home/nazar/dev/ROS2/src/build/action_tutorials_interfaces/rosidl_adapter/action_tutorials_interfaces
+[0.352s]   --output-file
+[0.352s]   /home/nazar/dev/ROS2/src/build/action_tutorials_interfaces/rosidl_adapter/action_tutorials_interfaces.idls)
+[0.352s]   returned error code 1:
+[0.352s] 
+[0.352s]   Traceback (most recent call last):
+[0.352s] 
+[0.352s]     File "<frozen runpy>", line 198, in _run_module_as_main
+[0.352s]     File "<frozen runpy>", line 88, in _run_code
+[0.353s]     File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_adapter/__main__.py", line 19, in <module>
+[0.353s]       sys.exit(main())
+[0.353s]                ^^^^^^
+[0.353s]     File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_adapter/main.py", line 53, in main
+[0.353s]       abs_idl_file = convert_to_idl(
+[0.353s]                      ^^^^^^^^^^^^^^^
+[0.353s]     File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_adapter/__init__.py", line 28, in convert_to_idl
+[0.353s]       from rosidl_adapter.action import convert_action_to_idl
+[0.353s]     File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_adapter/action/__init__.py", line 16, in <module>
+[0.353s]       from rosidl_adapter.resource import expand_template
+[0.354s]     File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_adapter/resource/__init__.py", line 19, in <module>
+[0.354s]       import em
+[0.354s] 
+[0.354s]   ModuleNotFoundError: No module named 'em'
+[0.354s] 
+[0.354s] Call Stack (most recent call first):
+[0.354s]   /opt/ros/humble/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:130 (rosidl_adapt_interfaces)
+[0.354s]   CMakeLists.txt:6 (rosidl_generate_interfaces)
+[0.354s] 
+[0.354s] [0m
+[0.355s] -- Configuring incomplete, errors occurred!
+[0.355s] See also "/home/nazar/dev/ROS2/src/build/action_tutorials_interfaces/CMakeFiles/CMakeOutput.log".
+[0.441s] Invoked command in '/home/nazar/dev/ROS2/src/build/action_tutorials_interfaces' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/nazar/dev/ROS2/src/action_tutorials_interfaces -DCMAKE_INSTALL_PREFIX=/home/nazar/dev/ROS2/src/install/action_tutorials_interfaces

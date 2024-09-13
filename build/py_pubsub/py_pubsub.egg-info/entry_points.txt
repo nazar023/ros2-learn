@@ -1,0 +1,12 @@
+[console_scripts]
+cool_client = py_pubsub.cool_client:main
+cool_service = py_pubsub.cool_service:main
+custom_client = py_pubsub.toxic_relationship_action_client:main
+custom_server = py_pubsub.toxic_relationship_action_server:main
+fibonacci = py_pubsub.fibonacci_action_server:main
+fibonacci_client = py_pubsub.fibonacci_action_client:main
+listener = py_pubsub.subscriber_member_function:main
+publisher_tutorial = py_pubsub.publisher_tutorial:main
+subscriber_tutorial = py_pubsub.subscriber_tutorial:main
+talker = py_pubsub.publisher_member_function:main
+

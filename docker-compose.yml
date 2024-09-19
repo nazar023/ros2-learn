@@ -1,39 +1,9 @@
-version: '3.8'
-
 services:
   ros2-server:
     build:
       context: .
       dockerfile: Dockerfile
-    command: bash -c "source /root/ros2/ros2-learn/install/setup.bash && ros2 run py_pubsub custom_server"
-
-    # Optionally set environment variables or volumes if needed
-    # environment:
-    #   - ROS_DOMAIN_ID=0
-    # volumes:
-    #   - ./ros2-learn:/root/ros2/ros2-learn
-    # ports:
-    #   - "8888:8888"  # Example port forwarding
-
-  ros2-client:
-    build:
-      context: .
-      dockerfile: Dockerfile
-    command: bash -c "source /root/ros2/ros2-learn/install/setup.bash && ros2 run py_pubsub custom_server"
-
-    # Optionally set environment variables or volumes if needed
-    # environment:
-    #   - ROS_DOMAIN_ID=0
-    # volumes:
-    #   - ./ros2-learn:/root/ros2/ros2-learn
-    # ports:
-    #   - "8888:8888"  # Example port forwarding
-
-
-    # image: osrf/ros:humble-desktop
-    # command: ros2 run py_pubsub custom_server
-  # listener:
-  #   image: osrf/ros:humble-desktop
-  #   command: ros2 run demo_nodes_cpp listener
-  #   depends_on:
-  #     - talker
+    command: bash -c "source /root/ros2/ros2-learn/install/setup.bash &&
+                      source /root/ros2/ros2-learn/ros2_env/bin/activate &&
+                      cd root/ros2/ros2-learn/src/py_pubsub/launch &&
+                      ros2 launch toxic_launch.py"

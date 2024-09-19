@@ -20,11 +20,5 @@ RUN mkdir -p ~/ros2 && \
 RUN bash -c "cd ~/ros2/ros2-learn && \
     rm -rf build/ install/ log/ && \
     source /opt/ros/${ROS_DISTRO}/setup.bash && \
-    colcon build && \
-    source install/setup.bash && \
-    echo 'Packages:' && ros2 pkg list"
-
-# Source the setup.bash and run the custom server and client
-CMD bash -c "source ~/ros2/ros2-learn/install/setup.bash && \
-    ros2 run py_pubsub custom_server & \
-    ros2 run py_pubsub custom_client"
+    colcon build --packages-select py_pubsub toxic_relationship && \
+    source install/setup.bash"

@@ -6,11 +6,9 @@ def generate_launch_description():
         Node(
             package='py_pubsub',
             executable='listener',
-            name='py_pubsub'
         ),
         Node(
             package='py_pubsub',
             executable='talker',
-            name='py_pubsub'
         ),
     ])

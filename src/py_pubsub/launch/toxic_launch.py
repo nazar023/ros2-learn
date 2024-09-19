@@ -6,11 +6,9 @@ def generate_launch_description():
         Node(
             package='py_pubsub',
             executable='custom_server',
-            name='py_pubsub'
         ),
         Node(
             package='py_pubsub',
             executable='custom_client',
-            name='py_pubsub'
         ),
     ])

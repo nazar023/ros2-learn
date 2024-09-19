@@ -49,21 +49,7 @@ class ToxicRelationshipActionClient(Node):
 def main(args=None):
     rclpy.init(args=args)
     action_client = ToxicRelationshipActionClient()
-
-    while True:
-      try:
-        # Prompt user for input
-        user_input = int(input('Enter the toxicity rate of your relationship (1 to 100): '))
-
-        # Check if input is within the valid range
-        if 1 <= user_input <= 100:
-            break  # Exit loop if input is valid
-        else:
-            print("Invalid input! Please enter a number between 1 and 100.")
-      except ValueError:
-          print("Invalid input! Please enter an integer.")
-
-    action_client.send_goal(user_input)
+    action_client.send_goal(20)
     rclpy.spin(action_client)
 
 

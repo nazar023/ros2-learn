@@ -10,6 +10,6 @@ def generate_launch_description():
         Node(
             package='py_pubsub',
             executable='custom_client',
-            parameters=[{'toxicity': 60}],
+            parameters=[{'toxicity': 1}]
         ),
     ])

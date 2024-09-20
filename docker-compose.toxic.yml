@@ -1,0 +1,13 @@
+services:
+  ros2-server:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: bash -c "cd ~/ros2/ros2-learn &&
+                      git pull origin add-docker-file &&
+                      rm -rf build/ install/ log/ &&
+                      colcon build --packages-select py_pubsub toxic_relationship &&
+                      source install/setup.bash &&
+                      source ros2_env/bin/activate &&
+                      cd src/py_pubsub/launch &&
+                      ros2 launch toxic_launch.py"

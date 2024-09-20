@@ -9,9 +9,12 @@ class ToxicRelationshipActionClient(Node):
 
     def __init__(self):
         super().__init__('toxic_relationship_action_client')
+        self.declare_parameter('toxicity', 0)
         self._action_client = ActionClient(self, ToxicRelationship, 'relationship')
 
-    def send_goal(self, toxicity_rate):
+    def send_goal(self):
+        toxicity_rate = self.get_parameter('toxicity').get_parameter_value().integer_value
+
         goal_msg = ToxicRelationship.Goal()
         goal_msg.toxicity_rate = toxicity_rate
 
@@ -49,7 +52,7 @@ class ToxicRelationshipActionClient(Node):
 def main(args=None):
     rclpy.init(args=args)
     action_client = ToxicRelationshipActionClient()
-    action_client.send_goal(20)
+    action_client.send_goal()
     rclpy.spin(action_client)
 
 

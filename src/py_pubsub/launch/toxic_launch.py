@@ -5,10 +5,11 @@ def generate_launch_description():
     return LaunchDescription([
         Node(
             package='py_pubsub',
-            executable='listener',
+            executable='custom_server',
         ),
         Node(
             package='py_pubsub',
-            executable='talker',
+            executable='custom_client',
+            parameters=[{'toxicity': 60}],
         ),
     ])

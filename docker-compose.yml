@@ -1,0 +1,9 @@
+services:
+  ros2-server:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: bash -c "source /root/ros2/ros2-learn/install/setup.bash &&
+                      source /root/ros2/ros2-learn/ros2_env/bin/activate &&
+                      cd root/ros2/ros2-learn/src/py_pubsub/launch &&
+                      ros2 launch toxic_launch.py"

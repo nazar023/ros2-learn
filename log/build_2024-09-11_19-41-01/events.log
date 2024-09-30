@@ -1,5 +1,0 @@
-[0.000000] (-) TimerEvent: {}
-[0.000105] (-) JobUnselected: {'identifier': 'my-test-package'}
-[0.000143] (-) JobUnselected: {'identifier': 'py_pubsub'}
-[0.000163] (-) JobUnselected: {'identifier': 'turtlesim'}
-[0.000177] (-) EventReactorShutdown: {}

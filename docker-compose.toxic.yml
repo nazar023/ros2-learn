@@ -8,6 +8,5 @@ services:
                       rm -rf build/ install/ log/ &&
                       colcon build --packages-select py_pubsub toxic_relationship &&
                       source install/setup.bash &&
-                      source ros2_env/bin/activate &&
                       cd src/py_pubsub/launch &&
                       ros2 launch toxic_launch.py"

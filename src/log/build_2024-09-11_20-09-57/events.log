@@ -1,5 +1,0 @@
-[0.000000] (-) TimerEvent: {}
-[0.000151] (action_tutorials_interfaces) JobQueued: {'identifier': 'action_tutorials_interfaces', 'dependencies': OrderedDict()}
-[0.000229] (action_tutorials_interfaces) JobStarted: {'identifier': 'action_tutorials_interfaces'}
-[0.024547] (action_tutorials_interfaces) JobEnded: {'identifier': 'action_tutorials_interfaces', 'rc': 1}
-[0.034900] (-) EventReactorShutdown: {}

@@ -1,9 +1,14 @@
 services:
   ros2-server:
+    environment:
+      - YAML=${YAML}
     build:
       context: .
       dockerfile: Dockerfile
-    command: bash -c "source /root/ros2/ros2-learn/install/setup.bash &&
-                      source /root/ros2/ros2-learn/ros2_env/bin/activate &&
-                      cd root/ros2/ros2-learn/src/py_pubsub/launch &&
-                      ros2 launch toxic_launch.py"
+    command: bash -c "cd ~/ros2/ros2-learn &&
+                  git pull origin main &&
+                  rm -rf build/ install/ log/ &&
+                  colcon build --packages-select py_pubsub toxic_relationship &&
+                  source install/setup.bash &&
+                  cd src/py_pubsub/launch &&
+                  ros2 launch toxic_launch.py  custom_way:=${YAML}"

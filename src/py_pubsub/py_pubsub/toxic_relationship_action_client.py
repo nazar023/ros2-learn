@@ -9,7 +9,7 @@ class ToxicRelationshipActionClient(Node):
 
     def __init__(self):
         super().__init__('toxic_relationship_action_client')
-        self.declare_parameter('toxicity', 0)
+        self.declare_parameter('toxicity', None)
         self._action_client = ActionClient(self, ToxicRelationship, 'relationship')
 
     def send_goal(self):

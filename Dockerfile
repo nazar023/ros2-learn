@@ -14,11 +14,6 @@ RUN apt-get update && apt-get install -y \
 # Clone specific branch of your repository
 RUN mkdir -p ~/ros2 && \
     cd ~/ros2 && \
-    git clone --branch add-docker-file https://github.com/nazar023/ros2-learn.git
+    git clone https://github.com/nazar023/toxic_server.git && \
+    git clone https://github.com/nazar023/toxic_clients.git
 
-# Build the workspace
-RUN bash -c "cd ~/ros2/ros2-learn && \
-    rm -rf build/ install/ log/ && \
-    source /opt/ros/${ROS_DISTRO}/setup.bash && \
-    colcon build --packages-select py_pubsub toxic_relationship && \
-    source install/setup.bash"

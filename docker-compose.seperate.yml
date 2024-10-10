@@ -1,0 +1,19 @@
+services:
+  ros2-server:
+    build:
+      dockerfile: Dockerfile
+    command: bash -c "cd ~/ros2/toxic_server &&
+                  colcon build --packages-select toxic_server toxic_relationship &&
+                  source install/setup.bash &&
+                  cd src/toxic_server/launch &&
+                  ros2 launch toxic_launch.py"
+
+  ros2-client:
+    environment:
+    - YAML=${YAML}
+    build:
+      dockerfile: Dockerfile
+    command: bash -c "cd ~/ros2/toxic_clients &&
+                  colcon build --packages-select toxic_clients toxic_relationship &&
+                  source install/setup.bash &&
+                  ros2 launch src/toxic_clients/launch/toxic_launch.py custom_way:=${YAML}"

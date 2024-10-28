@@ -1,0 +1,6 @@
+[submodule "toxic_clients"]
+	path = toxic_clients
+	url = https://github.com/nazar023/toxic_clients
+[submodule "toxic_server"]
+	path = toxic_server
+	url = https://github.com/nazar023/toxic_server
